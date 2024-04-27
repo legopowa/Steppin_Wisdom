@@ -1,2 +1,2 @@
 # Steppin_Wisdom
-A profit calculator for StepN
+A profit calculator for StepN.
